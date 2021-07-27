@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WMS_MobApp</string>
+    <string name="connect">Connect</string>
+    <string name="wardLabel">Ward: </string>
+    <string name="col1PatList">First Name</string>
+    <string name="col2PatList">Last Name</string>
+    <string name="col3PatList">Bed</string>
+    <string name="col4PatList">EpMov ID</string>
+    <string name="col5PatList">Bed ID</string>
+    <string name="col6PatList">Pat ID</string>
+    <string name="bandRetrivalStringProb">\"Problem retrieving band info: \"</string>
+    <string name="logout">Logout</string>
+</resources>

@@ -1,0 +1,89 @@
+TaskName,TaskDescription,RN _Time _Spent,HCA _Time _Spent,TaskBand,BandDescription,BandValue,WorkModel_Ratio,WorkTask_ID,TaskBand_ID
+Task A,xxx,200,100,Task A Small,xxxx,0.3,0,0,0
+Task A,xxx,200,100,Task A Med,xxxx,0.6,0,0,0
+Task A,xxx,200,100,Task A Large ,xxxx,1,0,0,0
+Task B,xxx,400,400,Task B  Small,xxxx,0.2,0,0,0
+Task B,xxx,400,400,Task B Med,xxxx,0.4,0,0,0
+Task B,xxx,400,400,Task B Large,xxxx,0.8,0,0,0
+Task B,xxx,400,400,Task B Very Large,xxxx,1,0,0,0
+Task C,xxx,300,200,Task C A Bit,xxxx,0.5,0,0,0
+Task C,xxx,300,200,Task C A Lot,xxxx,1,0,0,0
+Task D,xxx,800,600,Task D Small,xxxx,0.4,0,0,0
+Task D,xxx,800,600,Task D Med,xxxx,0.8,0,0,0
+Task D,xxx,800,600,Task D Large,xxxx,1,0,0,0
+Task E,xxx,250,250,Task E Small,xxxx,0.2,0,0,0
+Task E,xxx,250,250,Task E Med,xxxx,0.4,0,0,0
+Task E,xxx,250,250,Task E Large,xxxx,0.8,0,0,0
+Task E,xxx,250,250,Task E Very Large,xxxx,1,0,0,0
+Task F,xxx,750,650,Task F Small,xxxx,0.3,0,0,0
+Task F,xxx,750,650,Task F Med,xxxx,0.6,0,0,0
+Task F,xxx,750,650,Task F Large,xxxx,0.9,0,0,0
+Task F,xxx,750,650,Task F Very Large,xxxx,1,0,0,0
+Task G,xxx,350,370,Task G Small,xxxx,0.2,0,0,0
+Task G,xxx,350,370,Task G Med,xxxx,0.5,0,0,0
+Task G,xxx,350,370,Task G Large,xxxx,0.9,0,0,0
+Task G,xxx,350,370,Task G Very Large,xxxx,1,0,0,0
+Task H,xxx,655,685,Task H Small,xxxx,0.2,0,0,0
+Task H,xxx,655,685,Task H Med,xxxx,0.4,0,0,0
+Task H,xxx,655,685,Task H Large,xxxx,0.8,0,0,0
+Task H,xxx,655,685,Task H Very Large,xxxx,1,0,0,0
+Task I,xxx,440,445,Task I Small,xxxx,0.2,0,0,0
+Task I,xxx,440,445,Task I Med,xxxx,0.4,0,0,0
+Task I,xxx,440,445,Task I Large,xxxx,0.8,0,0,0
+Task I,xxx,440,445,Task I Very Large,xxxx,1,0,0,0
+Task J,xxx,450,430,Task J Small,xxxx,0.3,0,0,0
+Task J,xxx,450,430,Task J Med,xxxx,0.5,0,0,0
+Task J,xxx,450,430,Task J Large,xxxx,0.7,0,0,0
+Task J,xxx,450,430,Task J Very Large,xxxx,1,0,0,0
+Task K,xxx,500,600,Task K Small,xxxx,0.3,0,0,0
+Task K,xxx,500,600,Task K Med,xxxx,0.5,0,0,0
+Task K,xxx,500,600,Task K Large,xxxx,0.7,0,0,0
+Task K,xxx,500,600,Task K Very Large,xxxx,1,0,0,0
+Task L,xxx,380,480,Task L Small,xxxx,0.3,0,0,0
+Task L,xxx,380,480,Task L Med,xxxx,0.5,0,0,0
+Task L,xxx,380,480,Task L Large,xxxx,0.7,0,0,0
+Task L,xxx,380,480,Task L Very Large,xxxx,1,0,0,0
+Task M,xxx,265,265,Task M Small,xxxx,0.4,0,0,0
+Task M,xxx,265,265,Task M Med,xxxx,0.8,0,0,0
+Task M,xxx,265,265,Task M Large,xxxx,1,0,0,0
+Task N,xxx,245,235,Task N Small,xxxx,0.2,0,0,0
+Task N,xxx,245,235,Task N Med,xxxx,0.8,0,0,0
+Task N,xxx,245,235,Task N Large,xxxx,1,0,0,0
+Task O,xxx,100,200,Task O Small,xxxx,0.5,0,0,0
+Task O,xxx,100,200,Task O Med,xxxx,0.75,0,0,0
+Task O,xxx,100,200,Task O Large,xxxx,1,0,0,0
+Task P,xxx,340,240,Task P Small,xxxx,0.4,0,0,0
+Task P,xxx,340,240,Task P Med,xxxx,0.7,0,0,0
+Task P,xxx,340,240,Task P Large,xxxx,1,0,0,0
+Task Q,xxx,310,320,Task Q Small,xxxx,0.5,0,0,0
+Task Q,xxx,310,320,Task Q Med,xxxx,0.9,0,0,0
+Task Q,xxx,310,320,Task Q Large,xxxx,1,0,0,0
+Task R,xxx,300,200,Task R Small,xxxx,0.4,0,0,0
+Task R,xxx,300,200,Task R Med,xxxx,0.8,0,0,0
+Task R,xxx,300,200,Task R Large,xxxx,1,0,0,0
+Task S,xxx,280,280,Task S Small,xxxx,0.3,0,0,0
+Task S,xxx,280,280,Task S Med,xxxx,0.7,0,0,0
+Task S,xxx,280,280,Task S Large,xxxx,1,0,0,0
+Task T,xxx,230,220,Task T Small,xxxx,0.3,0,0,0
+Task T,xxx,230,220,Task T Med,xxxx,0.6,0,0,0
+Task T,xxx,230,220,Task T Large,xxxx,1,0,0,0
+Task U,xxx,230,220,Task U Small,xxxx,0.2,0,0,0
+Task U,xxx,230,220,Task U Med,xxxx,0.8,0,0,0
+Task U,xxx,230,220,Task U Large,xxxx,1,0,0,0
+Task V,xxx,120,130,Task V Small,xxxx,0.4,0,0,0
+Task V,xxx,120,130,Task V Med,xxxx,0.8,0,0,0
+Task V,xxx,120,130,Task V Large,xxxx,1,0,0,0
+Task W,xxx,100,75,Task W Small,xxxx,0.5,0,0,0
+Task W,xxx,100,75,Task W Large,xxxx,1,0,0,0
+Task X,xxx,150,175,Task X Small,xxxx,0.5,0,0,0
+Task X,xxx,150,175,Task X Large,xxxx,1,0,0,0
+Task Y,xxx,850,850,Task Y Tiny,xxxx,0.2,0,0,0
+Task Y,xxx,850,850,Task Y Small,xxxx,0.4,0,0,0
+Task Y,xxx,850,850,Task Y Med,xxxx,0.6,0,0,0
+Task Y,xxx,850,850,Task Y Large,xxxx,0.8,0,0,0
+Task Y,xxx,850,850,Task Y Very Large,xxxx,1,0,0,0
+Task Z,xxx,900,1000,Task Z Tiny,xxxx,0.2,0,0,0
+Task Z,xxx,900,1000,Task Z Small,xxxx,0.4,0,0,0
+Task Z,xxx,900,1000,Task Z Med,xxxx,0.6,0,0,0
+Task Z,xxx,900,1000,Task Z Large,xxxx,0.8,0,0,0
+Task Z,xxx,900,1000,Task Z Very Large,xxxx,1,0,0,0
